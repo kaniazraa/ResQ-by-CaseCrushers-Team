@@ -6,7 +6,7 @@
 - [Video Link](#video)
 - [General Description](#description)
 - [Setup Instructions](#setup)
-- [How to Interact with Prototype](#interaction)
+- [How to Interact with Prototype?](#interaction)
 
 # Team Members <a name="teammembers"></a>
 | Name                          |
@@ -49,5 +49,5 @@ No installation is required. The prototype is hosted on Figma and can be accesse
 3. Navigate through the prototype by clicking the interactive buttons and interface elements.
 4. Follow the flow to explore key features such as hazard reporting, evacuation routing, shelter search, and SOS emergency signals.
 
-# How to Interact with Prototype <a name="interaction"></a>
+# How to Interact with Prototype? <a name="interaction"></a>
 <masukin setup kalian disini>
