@@ -14,7 +14,7 @@ bit.ly/MockupResQ
 <masukin link video disini>
 
 # Team Members <a name="teammembers"></a>
-| Nama                          |
+| Name                          |
 |:-----------------------------:|
 | Harits Imtiyaaz Tresna Putra  |
 | Ayesha Ghaisani               |
