@@ -10,13 +10,13 @@
 - [How to Interact with Prototype?](#interaction)
 
 # Team Members <a name="teammembers"></a>
-| Name                          |
-|:-----------------------------:|
-| Harits Imtiyaaz Tresna Putra  |
-| Ayesha Ghaisani               |
-| Kania Azra Putri Fahlepi      | 
-| Caesar Romeo                  | 
-| Zahra Nadindra                |
+| Name                          | Major         |
+|:-----------------------------:| :------------:|
+| Harits Imtiyaaz Tresna Putra  | Management    |
+| Ayesha Ghaisani               | Management    |
+| Kania Azra Putri Fahlepi      | Management    |
+| Caesar Romeo                  | Management    |
+| Zahra Nadindra                | Management    |
 
 # Final Report <a name="final-report"></a>
 <masukin file kalian disini>
