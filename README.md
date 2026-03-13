@@ -1,4 +1,5 @@
 # ResQ: An Offline-First AI Platform for Disaster Communication and Emergency Response in ASEAN
+![thumbnail resq fix](https://github.com/user-attachments/assets/3e85b198-45d6-4a2b-b4f2-62551456574e)
 
 # Table of Contents
 - [Team Members](#teammembers)
