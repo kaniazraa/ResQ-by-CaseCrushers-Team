@@ -19,10 +19,12 @@
 | Zahra Nadindra                | Business Management    |
 
 # Figma Prototype Link <a name="prototype"></a>
-bit.ly/MockupResQ
+You can explore our prototype through the link below:
+[bit.ly/MockupResQ](https://bit.ly/MockupResQ)
 
 # Video Link <a name="video"></a>
-bit.ly/ResQ_CaseCrushers
+Watch our project presentation and demo here:
+[bit.ly/ResQ_CaseCrushers](https://bit.ly/ResQ_CaseCrushers)
 
 # General Description <a name="description"></a>
 ResQ is an offline-first disaster response platform designed to support emergency communication, hazard reporting, and evacuation guidance during the critical first 72 hours after a disaster. In many disaster situations across ASEAN, telecommunications infrastructure such as mobile networks and internet access often collapses, leaving affected communities without access to emergency communication or reliable evacuation information. To address this challenge, ResQ combines peer-to-peer mesh networking, edge AI processing, and community-driven mapping into a single disaster response ecosystem. The platform allows users to send SOS signals, report hazards, access safe evacuation routes, and locate nearby shelters even when internet connectivity is unavailable.
