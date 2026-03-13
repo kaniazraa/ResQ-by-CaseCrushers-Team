@@ -47,6 +47,7 @@ National and local disaster management agencies & response team
 
 # Setup Instructions <a name="setup"></a>
 **How to Install?**
+
 No installation is required. The prototype is hosted on Figma and can be accessed directly through the provided prototype link.
 **How to Run?**
 1. Open the Figma prototype link provided in this repository.
