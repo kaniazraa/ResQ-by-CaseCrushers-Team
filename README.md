@@ -1,4 +1,4 @@
-# ResQ
+# ResQ: An Offline-First AI Platform for Disaster Communication and Emergency Response in ASEAN
 <masukin deskripsi kalian disini>
 
 # Table of Contents
