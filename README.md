@@ -46,10 +46,9 @@ ResQ is designed for both public users and institutional disaster response actor
 National and local disaster management agencies & response team
 
 # Setup Instructions <a name="setup"></a>
-**How to Install?**
-
+### How to Install?
 No installation is required. The prototype is hosted on Figma and can be accessed directly through the provided prototype link.
-**How to Run?**
+### How to Run?
 1. Open the Figma prototype link provided in this repository.
 2. Start from the first screen (onboarding page).
 3. Navigate through the prototype by clicking the interactive buttons and interface elements.
