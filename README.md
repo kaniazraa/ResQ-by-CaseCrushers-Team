@@ -25,24 +25,24 @@ bit.ly/MockupResQ
 
 # General Description <a name="description"></a>
 ResQ is an offline-first disaster response platform designed to support emergency communication, hazard reporting, and evacuation guidance during the critical first 72 hours after a disaster. In many disaster situations across ASEAN, telecommunications infrastructure such as mobile networks and internet access often collapses, leaving affected communities without access to emergency communication or reliable evacuation information. To address this challenge, ResQ combines peer-to-peer mesh networking, edge AI processing, and community-driven mapping into a single disaster response ecosystem. The platform allows users to send SOS signals, report hazards, access safe evacuation routes, and locate nearby shelters even when internet connectivity is unavailable.
-## SDG Addressed
+### SDG Addressed
 ResQ supports several United Nations Sustainable Development Goals (SDGs), including:
-**1. SDG 4: Quality Education**
+#### 1. SDG 4: Quality Education
 through community-based disaster preparedness and mapping initiatives.
-**2. SDG 9: Industry, Innovation and Infrastructure**
+#### 2. SDG 9: Industry, Innovation and Infrastructure
 by introducing resilient digital infrastructure through edge AI and mesh networking
-**3. SDG 10 – Reduced Inequalities**
+#### 3. SDG 10 – Reduced Inequalities
 by ensuring accessibility for users in rural and low-connectivity areas
-**4. SDG 11: Sustainable Cities and Communities**
+#### 4. SDG 11: Sustainable Cities and Communities
 by improving disaster preparedness, emergency communication, and evacuation support
-**5. SDG 13: Climate Action**
+#### 5. SDG 13: Climate Action
 by strengthening adaptive response to climate-related disasters such as floods and storms
-## Target User
+### Target User
 ResQ is designed for both public users and institutional disaster response actors across ASEAN.
-**Primary users include communities living in disaster-prone areas, especially:**
+#### Primary users include communities living in disaster-prone areas, especially:
 1. Rural and remote communities with limited internet connectivity
 2. Urban and semi-urban residents who need timely disaster alerts and emergency communication tools
-**Secondary users include:**
+#### Secondary users include:
 National and local disaster management agencies & response team
 
 # Setup Instructions <a name="setup"></a>
