@@ -3,7 +3,6 @@
 
 # Table of Contents
 - [Team Members](#teammembers)
-- [Final Report](#final-report)
 - [Figma Prototype Link](#prototype)
 - [Video Link](#video)
 - [General Description](#description)
@@ -18,9 +17,6 @@
 | Kania Azra Putri Fahlepi      | Management    |
 | Caesar Romeo                  | Management    |
 | Zahra Nadindra                | Management    |
-
-# Final Report <a name="final-report"></a>
-<masukin file kalian disini>
 
 # Figma Prototype Link <a name="prototype"></a>
 bit.ly/MockupResQ
@@ -55,4 +51,55 @@ No installation is required. The prototype is hosted on Figma and can be accesse
 4. Follow the flow to explore key features such as hazard reporting, evacuation routing, shelter search, and SOS emergency signals.
 
 # How to Interact with Prototype? <a name="interaction"></a>
-<masukin setup kalian disini>
+#### 1. Start the Application
+Open the prototype and begin from the Welcome / Login screen.
+Click Login or Register to enter the system.
+#### 2. Complete Onboarding
+The onboarding screen introduces ResQ as an offline-first disaster survival map.
+Continue through the onboarding flow to understand the core concept of the platform.
+#### 3. Explore the Home Dashboard
+After onboarding, users will enter the Home Dashboard, which serves as the main control center of the application.
+From this screen, users can access the main features:
+1) SOS Emergency
+2) Hazard Reporting
+3) Safe Route Navigation
+4) Nearby Shelter Finder
+5) Community Map
+The dashboard also displays the interactive disaster map, showing nearby hazards, shelters, and emergency locations.
+#### 4. Send an SOS Emergency Signal
+Click the SOS button to simulate sending an emergency signal.
+The system demonstrates how distress signals can be transmitted to nearby devices using mesh networking when internet connectivity is unavailable.
+#### 5. Report a Disaster Hazard
+Select Report Hazard to simulate reporting a disaster situation.
+Users can:
+1) Upload an image of the hazard
+2) Add a short description
+3) Submit the report
+The system then generates an AI hazard summary, showing how edge AI can analyze disaster conditions.
+#### 6. Explore the Disaster Map
+Navigate to the Disaster Map Detail to view:
+1) Hazard locations
+2) Medical facilities
+3) Emergency shelters
+4) Safe evacuation zones
+This map helps users understand the surrounding disaster situation.
+#### 7. Find a Safe Evacuation Route
+Open Safe Route Navigation and select a destination such as a shelter or medical facility.
+The system calculates a safe evacuation path, avoiding reported hazard areas and displaying:
+1) Estimated distance
+2) Travel time
+3) Updated route guidance
+#### 8. Find Nearby Shelters
+Open Nearby Shelter Finder to see a list of verified shelters and medical facilities near the user’s location.
+This feature helps users quickly identify safe destinations during emergencies.
+#### 9. Explore the Community Disaster Map
+Navigate to the Community Map to view locations contributed by other users, such as shelters, evacuation routes, and water sources.
+#### 10. Submit a Community Contribution
+Use the Community Contribution Form to add a new location to the disaster map.
+Users can categorize their contribution as:
+1) Emergency Shelter
+2) Medical Clinic
+3) Evacuation Route
+4) Water Source
+
+
